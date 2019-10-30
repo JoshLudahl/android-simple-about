@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Josh Ludahl</string>
+    <string name="yellow_star">Yellow_star</string>
+
+    <string name="bio">Hi, my name is Josh.
+        \n\nFictional about me page.
+        \n\nThis is a sample user profile that could be used in an application.
+        \n\nIt is a good place to start when making Android applications.
+        \n\nYou can build anything, just start with one brick and build it!
+        \n\nThis is a starting point with which you can build.
+
+
+    </string>
+    <string name="what_is_your_nickname">What\'s your nickname?</string>
+    <string name="done_button_text">Done</string>
+</resources>
